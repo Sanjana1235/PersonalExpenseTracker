@@ -1,0 +1,7 @@
+*.class
+
+expenses.db
+expenses.txt
+expenses.csv
+
+sqlite-jdbc-*.jar
